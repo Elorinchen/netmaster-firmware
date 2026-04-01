@@ -1,0 +1,13 @@
+version=1.2.4
+channel=stable
+target=netmaster
+file=netmaster.ehex
+asset_url=https://example.com/netmaster.ehex
+size=123456
+sha256=ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890
+min_supervisor_version=1.0.0
+signed=yes
+format=ehex-signed
+release_date=2026-03-31
+mandatory=no
+notes=Test manifest
