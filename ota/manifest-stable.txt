@@ -8,3 +8,5 @@ timestamp=2026-04-03T17:21:31
 asset_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/ota/Netmaster_001.ino.ehex
 min_supervisor_version=0.0.0
 signed=yes
+format=ehex-signed
+
