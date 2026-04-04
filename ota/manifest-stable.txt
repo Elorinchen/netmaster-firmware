@@ -9,4 +9,6 @@ asset_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/o
 min_supervisor_version=0.0.0
 signed=yes
 format=ehex-signed
+mandatory=no
+notes=First OTA test release
 
