@@ -1,14 +1,8 @@
-version=0.1
-target=netmaster
-file=Netmaster_001.ino.ehex
-size=94693
-sha256=D7699E501D63DB071AE906EE682DAA70AFBDD6F9FC1BB45F374160E9362CDD10
+version=0.2
+file=Netmaster_004.ino.ehex
+size=89765
+sha256=3EE1976BEE27492A008D681B0E51191F74B6C22FE0095F3AB845194FA52F355B
 channel=stable
-timestamp=2026-04-03T17:21:31
-asset_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/ota/Netmaster_001.ino.ehex
-min_supervisor_version=0.0.0
-signed=yes
-format=ehex-signed
-mandatory=no
-notes=First OTA test release
-
+timestamp=2026-04-23T15:03:21
+base_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/ota
+asset_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/ota/Netmaster_004.ino.ehex
