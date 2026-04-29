@@ -1,12 +1,12 @@
-version=0.2
+version=004
 channel=stable
 target=netmaster
 file=Netmaster_004.ino.ehex
 asset_url=https://raw.githubusercontent.com/Elorinchen/netmaster-firmware/main/ota/Netmaster_004.ino.ehex
 size=89765
-sha256=3EE1976BEE27492A008D681B0E51191F74B6C22FE0095F3AB845194FA52F355B
+sha256=4C02B4216E5BB66E02BDE745CA366ED0C11CA97BEDB686EC016932E2D79DC8B4
 min_supervisor_version=0.0
-release_date=2026-04-23T16:14:19
+release_date=2026-04-29T09:54:55
 mandatory=false
 notes=
 signed=true
